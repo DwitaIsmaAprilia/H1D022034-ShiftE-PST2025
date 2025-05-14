@@ -2,7 +2,6 @@
 #include <Servo.h>
 
 Servo myservo;
-
 void setup() {
   myservo.attach(D0);
 }
